@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.escapetheundeadvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\VR Udacity\\Capstone\\EscapeTheUndeadVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "EscapeTheUndeadVR [Testing]"
+        }
+      }
+    }
+  ]
+}
